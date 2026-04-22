@@ -5,4 +5,8 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
+<iframe 
+  src="/ENC3241/github_coverletter.pdf" 
+  width="100%" 
+  height="800px">
+</iframe>
