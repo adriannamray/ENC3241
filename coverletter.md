@@ -4,7 +4,7 @@ title: Cover Letter
 ---
 
 # Cover Letter
-This cover letter was written for a specific IT internship opportunity at Vinebrook Technology and demonstrates my ability to communicate my qualifications, align my skills with an organization’s goals, and maintain a professional tone.
+<p> This cover letter was written for a specific IT internship opportunity at Vinebrook Technology and demonstrates my ability to communicate my qualifications, align my skills with an organization’s goals, and maintain a professional tone. </p>
 
 
 <iframe 
